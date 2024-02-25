@@ -2,7 +2,7 @@
 - 👀 I’m interested in vr, ai, 3d and all things related!
 - 🌱 I’m currently learning mastering c++, to create awesome things, mentioned above!
 - 💞️ I’m looking to collaborate on everything fun!
-- 📫 How to reach me? Ya! Going to figure that one out first.
+- 📫 @SunlitCat on Discord
 - 🐈 Mew~
 
 <!---
